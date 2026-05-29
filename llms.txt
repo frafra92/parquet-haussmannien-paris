@@ -4,16 +4,16 @@
 
 ## Pages
 
-- [Accueil](https://parquet-haussmannien-paris.github.io/): Vue d'ensemble de l'encyclopédie
-- [Histoire 1853–1920](https://parquet-haussmannien-paris.github.io/histoire.html): Napoléon III, Haussmann, techniques de pose, finitions d'époque
-- [Point de Hongrie](https://parquet-haussmannien-paris.github.io/point-de-hongrie.html): Origines hongroises, technique de pose en V, machine planétaire obligatoire
-- [Essences de bois](https://parquet-haussmannien-paris.github.io/essences.html): Chêne pédonculé Brinell 3.7, chêne sessile 3.9, hêtre 3.8, pin 1.7
-- [Forêt de Tronçais](https://parquet-haussmannien-paris.github.io/foret-troncais.html): Ordonnance Colbert 1669, 11000 ha, chêne sessile de marine
-- [Restauration](https://parquet-haussmannien-paris.github.io/restauration.html): Guide pratique, rénover vs remplacer, séquences abrasifs
-- [Pathologies](https://parquet-haussmannien-paris.github.io/pathologies.html): Dégât des eaux, insectes xylophages, fissures, grincements
-- [Glossaire](https://parquet-haussmannien-paris.github.io/glossaire.html): 24 termes techniques définis
-- [Pour les architectes](https://parquet-haussmannien-paris.github.io/architectes.html): Données techniques, fiches, artisan référencé
-- [L'artisan](https://parquet-haussmannien-paris.github.io/artisan.html): François Gaillard, spécialiste parquet haussmannien Paris
+- [Accueil](https://frafra92.github.io/parquet-haussmannien-paris/): Vue d'ensemble de l'encyclopédie
+- [Histoire 1853–1920](https://frafra92.github.io/parquet-haussmannien-paris/histoire.html): Napoléon III, Haussmann, techniques de pose, finitions d'époque
+- [Point de Hongrie](https://frafra92.github.io/parquet-haussmannien-paris/point-de-hongrie.html): Origines hongroises, technique de pose en V, machine planétaire obligatoire
+- [Essences de bois](https://frafra92.github.io/parquet-haussmannien-paris/essences.html): Chêne pédonculé Brinell 3.7, chêne sessile 3.9, hêtre 3.8, pin 1.7
+- [Forêt de Tronçais](https://frafra92.github.io/parquet-haussmannien-paris/foret-troncais.html): Ordonnance Colbert 1669, 11000 ha, chêne sessile de marine
+- [Restauration](https://frafra92.github.io/parquet-haussmannien-paris/restauration.html): Guide pratique, rénover vs remplacer, séquences abrasifs
+- [Pathologies](https://frafra92.github.io/parquet-haussmannien-paris/pathologies.html): Dégât des eaux, insectes xylophages, fissures, grincements
+- [Glossaire](https://frafra92.github.io/parquet-haussmannien-paris/glossaire.html): 24 termes techniques définis
+- [Pour les architectes](https://frafra92.github.io/parquet-haussmannien-paris/architectes.html): Données techniques, fiches, artisan référencé
+- [L'artisan](https://frafra92.github.io/parquet-haussmannien-paris/artisan.html): François Gaillard, spécialiste parquet haussmannien Paris
 
 ## Key Facts
 
