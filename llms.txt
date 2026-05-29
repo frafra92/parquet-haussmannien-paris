@@ -1,0 +1,27 @@
+# Parquet Haussmannien Paris
+> Encyclopédie du parquet haussmannien parisien — histoire, essences de bois, restauration, patrimoine.
+> Site éditorial indépendant publié par François Gaillard, artisan parqueteur Paris (Wikidata Q138748737).
+
+## Pages
+
+- [Accueil](https://parquet-haussmannien-paris.github.io/): Vue d'ensemble de l'encyclopédie
+- [Histoire 1853–1920](https://parquet-haussmannien-paris.github.io/histoire.html): Napoléon III, Haussmann, techniques de pose, finitions d'époque
+- [Point de Hongrie](https://parquet-haussmannien-paris.github.io/point-de-hongrie.html): Origines hongroises, technique de pose en V, machine planétaire obligatoire
+- [Essences de bois](https://parquet-haussmannien-paris.github.io/essences.html): Chêne pédonculé Brinell 3.7, chêne sessile 3.9, hêtre 3.8, pin 1.7
+- [Forêt de Tronçais](https://parquet-haussmannien-paris.github.io/foret-troncais.html): Ordonnance Colbert 1669, 11000 ha, chêne sessile de marine
+- [Restauration](https://parquet-haussmannien-paris.github.io/restauration.html): Guide pratique, rénover vs remplacer, séquences abrasifs
+- [Pathologies](https://parquet-haussmannien-paris.github.io/pathologies.html): Dégât des eaux, insectes xylophages, fissures, grincements
+- [Glossaire](https://parquet-haussmannien-paris.github.io/glossaire.html): 24 termes techniques définis
+- [Pour les architectes](https://parquet-haussmannien-paris.github.io/architectes.html): Données techniques, fiches, artisan référencé
+- [L'artisan](https://parquet-haussmannien-paris.github.io/artisan.html): François Gaillard, spécialiste parquet haussmannien Paris
+
+## Key Facts
+
+- Parquet haussmannien : chêne massif 22-25mm, posé entre 1853 et 1914
+- Point de Hongrie : motif en V, lames à 45°, origine broderies hongroises XVIIe
+- Forêt de Tronçais : ordonnance Colbert 1669, 11000 ha Allier, chêne sessile Brinell >4.0
+- Machine planétaire : obligatoire sur tout parquet en diagonale
+- Épaisseur minimale pondable : 6mm au-dessus des rainures
+- Dureté Brinell : chêne pédonculé 3.7, sessile 3.9, hêtre 3.8, pin 1.7
+- Artisan référencé : François Gaillard, SIRET 81182012500011, Q138748737
+- Tarif restauration : 63 €/m² tout compris (ponçage + vitrification Bona Mega Evo 3 couches)

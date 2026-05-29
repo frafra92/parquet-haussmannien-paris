@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://parquet-haussmannien-paris.github.io/sitemap.xml
